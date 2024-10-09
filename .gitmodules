@@ -1,0 +1,6 @@
+[submodule "salon-ui"]
+	path = salon-ui
+	url = https://github.com/RobertWAFowler/salon-ui
+[submodule "salon-api"]
+	path = salon-api
+	url = https://github.com/RobertWAFowler/salon-api
